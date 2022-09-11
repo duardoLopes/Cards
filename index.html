@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css"/>
+    <title>Slide Card</title>
+</head>
+<body>
+    <div class="conteudo">
+        <header>
+            <h1>Title</h1>
+        </header>
+        <main class="content">
+            <div class="slides">
+
+                <input type="radio" name="slide" id="slide1" checked>
+                <input type="radio" name="slide" id="slide2">
+                <input type="radio" name="slide" id="slide3">
+                <input type="radio" name="slide" id="slide4">
+
+                <div class="slide s1">
+                    <div class="card ss1">
+                        <header>
+                            <h1>Title Card 1</h1>
+                        </header>
+                        <button class="btn btn1" onclick="alert('Card 1')">Acessar</button>
+                    </div>
+                </div>
+                <div class="slide s2">
+                    <div class="card ss2">
+                        <header>
+                            <h1>Title Card 2</h1>
+                        </header>
+                        <button class="btn btn2" onclick="alert('Card 2')">Acessar</button>
+                    </div>
+                </div>
+                <div class="slide s3">
+                    <div class="card ss3">
+                        <header>
+                            <h1>Title Card 3</h1>
+                        </header>
+                        <button class="btn btn3" onclick="alert('Card 3')">Acessar</button>
+                    </div>
+                </div>
+                <div class="slide s4">
+                    <div class="card ss4">
+                        <header>
+                            <h1>Title Card 4</h1>
+                        </header>
+                        <button class="btn btn4" onclick="alert('Card 4')">Acessar</button>
+                    </div>
+                </div>
+
+                <div class="navigation">
+                    <label class="bar bar1" for="slide1">1</label>
+                    <label class="bar bar2" for="slide2">2</label>
+                    <label class="bar bar3" for="slide3">3</label>
+                    <label class="bar bar4" for="slide4">4</label>
+                </div>
+
+            </div>
+        </main>
+    </div>
+</body>
+</html>
