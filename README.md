@@ -8,7 +8,7 @@ segue o link para acessar o resultado: <a href="https://duardolopes.github.io/Ca
 
 Nesse projeto utilizei o [Nodejs](https://nodejs.org) para poder rodar o server e assim abrir no navegador de outros dispositivos alem do meu computador, mas não é necessário, você pode apenas abrir o index.html no navegador de sua preferência para checar os resultados do código.
 
-Você precisará ter o NodeJS instalado na sua máquina, depois disso, colonar este repositório:
+Você precisará ter o NodeJS instalado na sua máquina, depois disso, clonar este repositório:
 ```sh
   $ git clone https://github.com/duardoLopes/Cards.git
 ```
