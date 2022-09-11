@@ -13,7 +13,7 @@ Você precisará ter o NodeJS instalado na sua máquina, depois disso, clonar es
   $ git clone https://github.com/duardoLopes/Cards.git
 ```
 
-## Execultar a Aplicação
+## Executar a Aplicação
 
 Para executá-la, basta rodar os seguintes comandos no diretório da pasta clonada do git:
 ```sh
