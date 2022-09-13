@@ -1,6 +1,6 @@
 # Slide Cards
 
-Este é um projeto bem simples feito apenas com html e css, não precisa de nenhuma depedência para funcionar.<br/>
+Este é um projeto bem simples feito apenas com html e css, não precisa de nenhuma dependência para funcionar.<br/>
 segue o link para acessar o resultado: <a href="https://duardolopes.github.io/Cards/">https://duardolopes.github.io/Cards/</a>
 
 
